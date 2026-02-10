@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079df012464decc4db8c158f68adc66e, type: 3}
+  m_Name: BlueColorModifier
+  m_EditorClassIdentifier: 
+  color: 0
+  hpModifier: 0
+  atkModifier: -15
+  speedModifier: 10
+  atkSpdModifier: 4
+  unitMaterial: {fileID: 2100000, guid: 5747e8489b3b6af468701e308e9d1b17, type: 2}
